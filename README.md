@@ -31,7 +31,7 @@ Next state of D flip-flop is always equal to data input, D for every positive tr
 
 **Procedure**
 
-/* write all the steps invloved */  
+/* write all the steps invloved */ 
 
 1.Type the program in Quartus software.
 
